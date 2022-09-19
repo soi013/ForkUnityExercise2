@@ -630,3 +630,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speedAnglePerSec: 60
+  _rigidbody: {fileID: 1230873108}
+  forceByInput: 100
